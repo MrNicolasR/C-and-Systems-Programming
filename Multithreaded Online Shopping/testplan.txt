@@ -1,0 +1,22 @@
+
+ Shopping Test Plan
+ --------------
+ Type "make" (without quotes) before doing anything.
+ You can type "make clean" to remove ".o" files.
+
+ Server:
+ -------
+ Run the server by typing "./server" (no quotes). Server listens on port 9000.
+ Server will wait for incoming connections from clients.
+
+ Client:
+ -------
+ Run the client program by typing "./client localhost" (again, no quotes).
+
+ This will connect you to the server if it is on the same machine.
+ Change "localhost" to address of your choice if server is on a different machine.
+
+ Test Cases:
+ -----------
+ Can be found in "shoppintest.txt".
+ 

@@ -1,0 +1,101 @@
+
+ Shopping Test Cases
+ ---------------
+
+ When trying to connect to server: Trying to connect...
+ Listening for connections on server: Listening on port 9000...
+
+ Startup:
+ --------
+ [Client] Input: ./client localhost
+ [Server] Output: [Connected] 127.0.0.1:<client_port>
+ [Client] Output: Connected to localhost on port 9000!
+
+ Connected:
+ ----------
+ [Client1] Input: 	register Nico
+ [Client1] Output: 	Enter your address line 1:
+ [Client1] Input: 	:123 
+ [Client1] Output: 	Enter your address line 2:
+ [Client1] Input: 	:A street
+ [Client1] Output: 	Enter your city(i.e. Camden):
+ [Client1] Input: 	:Camden
+ [Client1] Output: 	Enter your state(i.e. nj):
+ [Client1] Input: 	:nj 
+ [Client1] Output: 	Enter your zipcode(i.e 08004):
+ [Client1] Input: 	:12345
+ [Client1] Output: 	Enter your balance:
+ [Client1] Input: 	:12345
+ [Client1] Output: 	Account created.
+ [Client1] Output:      Options: [shop, exit]
+ [Client1] Input: 	:shop Nico
+ [Client1] Output:	Welcome! Options: [add, remove, show, empty, placeorder, catalog, done]
+ [Client1] Input:	shop Marcos
+ [Client1] Output:	Cannot login. Try again or wait...
+ [Client2] Input:	shop Nico
+ [Client2] Output:	Cannot login. Try again or wait...
+ [Client1] Input:	:add s-22982
+ [Client1] Output:	The item was added to your cart.
+ [Client1] Input:	:remove s-22982
+ [Client1] Output:	The item was removed from your cart;
+ [Client1] Input:	:empty
+ [Client1] Output:      :Your cart has been empty
+ [Client1] Input:	:done
+ [Client1] Output:	Goodbye! Options: [register, shop, exit]
+ [Client1] Input: 	register Marcos
+ [Client1] Output: 	Enter your address line 1:
+ [Client1] Input: 	:123 
+ [Client1] Output: 	Enter your address line 2:
+ [Client1] Input: 	:A street
+ [Client1] Output: 	Enter your city(i.e. Camden):
+ [Client1] Input: 	:Camden
+ [Client1] Output: 	Enter your state(i.e. nj):
+ [Client1] Input: 	:nj 
+ [Client1] Output: 	Enter your zipcode(i.e 08004):
+ [Client1] Input: 	:12345
+ [Client1] Output: 	Enter your balance:
+ [Client1] Input: 	:12345
+ [Client1] Output: 	Account created.
+ [Client1] Output:      Options: [shop, exit]
+ [Client2] Input:	:shop Marcos
+ [Client2] Output:	Welcome! Options: [add, remove, show, empty, placeorder, catalog, done]
+ [Client1] Input:	exit
+ [Client1] Output:	Disconnected from server.
+ [Server]  Output:	[Disconnected] 127.0.0.1:<client1_port>
+ [Client2] Input:	:add s-22982
+ [Client2] Output:	The item was added to your cart
+ [Client2] Input:	:done
+ [Client2] Output:	Goodbye! Options: [register, shop, exit]
+ [Client2] Input:	register Nico
+ [Client2] Output:	Cannot register account at this time...
+
+
+
+ After bank has 20 accounts:
+ [Client] Input:	register Steven
+ [Client] Output:	Cannot register account at this time...
+
+
+ Every 25 seconds the server will output account info for all accounts:
+ ------------
+
+ Server Info
+ ------------
+ Account: Nico
+ Session: IN SERVICE
+
+ Account: Marcos
+ Session: IN SERVICE
+
+ Account: Rico
+ Session: NOT IN SERVICE
+
+ Account: Bob
+ Session: IN SERVICE
+
+ // If more accounts
+
+
+ If server shuts down while clients are connected:
+ [All Clients] Output: [Disconnected] Server has shutdown!
+ 

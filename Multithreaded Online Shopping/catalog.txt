@@ -1,0 +1,100 @@
+hh-6800	63	Pelican Equipment Case
+s-22731	95	Insulated Round Trip Tote
+s-13340	0.62	Corrugated Tray
+s-22219	190	Thermal Pallet Cover
+s-16497	55	Insulated Box Liner
+s-22599	59	Insulated Mailer
+s-11476	50	Cool Shield Bubble Roll
+h-906	17	Fish Knife
+s-16857	41	Thermal Gloves
+s-13376	23	Reusable Cold Pack
+s-a8969	31	Moisture-Resistant Cold Pack
+s-7887	46	Insulated Shipping Kit
+s-20447	115	Insulated Foam Container
+s-21104	123	Thermal Box Panels
+s-21582	54	Thermal Bags
+s-18256	44	Ice Packs
+s-11350	8.30	Wine Shipper
+s-21610	1.80	Wine Tote
+s-16480	155	Ice Blanket
+s-9915	3.40	Pulp Wine Shipper
+s-20540	6.30	Pulp Beer Shipper
+s-14359	4.90	Corrugated Bottle Carrier
+s-4575	0.33	White Box
+s-9714	1.98	Easy Seal Side Loader
+h-4288	7.75	Quick Change Folding Knife
+s-7449	2.10	Paint Can Shipper
+s-22146	15	Dust-Free Variation 2 Shipper Kit
+s-7347	7.30	Paint Can Foam Shipper Kit
+s-7335	2.60	Bulk Pack Supplies
+s-18365	3.50	5-Gallon Overpack Boxes
+s-20122	5.10	F-Style Shipper Kit
+s-16421	4.90	Aerosol Shipper
+s-16428	9.10	Battery Shipper
+s-14959	5.10	Pail Shipper
+s-20125	11.40	Gallon Jug Shipper Kit
+s-14958	105	Hazmat Cubic Yard Box
+s-14345	1.68	Deluxe Moving Box
+s-16380	3.37	Box With handholds
+s-16333	3.72	Flat-Panel TV Box
+s-16675	11.30	Korrvu Laptop Shipper
+s-4967	42	Speed Pack
+s-4777	12.08	Wardrobe Box
+s-4676	7.88	Dish and Glass Pack Box
+s-18244	2.40	Paper Moving Pads
+s-9878	13	Moving Blanket
+s-14258	1.68	Skateboard Shipper
+s-14224	8.55	Guitar Box
+s-16502	17	Jumbo Carrying Case
+s-18975	33.15	Gondola Box
+s-4210	2.12	Electronics box
+s-4465	1.33	Golf Box
+s-4618	3.36	Lamp Box
+s-4878	13.09	Bike Box
+s-10659	6.71	Mattress Box
+s-12590	8.39	Telescopic Ski Box
+s-12610	3.87	Suitcase Box
+s-17997	2.73	Rifle Box
+s-17589	49	Deluxe Artwork Shipper
+s-4552	1.53	Artwork/Mirror Box
+s-4870	3.14	Telescopic Box
+h-6689	165	Record Storage Rack
+s-17995	9.95	Bankers Boxes
+s-22125	43	Chipboards Box
+s-10706 40	Rigid Set-UP Box
+s-17644	2.50	Produce Box
+s-18942	2.50	Canning Jar Box
+s-9890	59	Reverse Tuck Cartons
+s-14455	16.50	Plastic Storage File Boxes
+H-1020	5995	Stretch Wrap Machine
+s-17973	125	Portable Stretch Wrap Dispenser/Film
+s-11558	97	Protective Netting
+s-13161	47	Stretch Loops
+h-2015	229	Illuminated Magnifier
+s-13003	14	Statis Shielding Bags
+s-11435	45	Nitrile Coated Gloves
+s-20732	61	Micro-Foam Nitrile
+h-7260	60	LED Emergency Lights
+s-22489	30	Magnetic Aisle Signs
+s-6807	59	Magnetic Tape
+h-3085	9	Wall Clock
+h-5670	24	Stopwatch
+s-21131	12	Notepads
+s-15545	6	Clipboard
+h-6408	12	Hammer
+h-6409	19	Screwdriver Set
+h-1761	182	Rolling Toolbox
+s-11880	14	Retractable Key Holder
+s-22762	10	Ultra Batteries
+h-1402	215	Retractable Hose Reel
+h-7731	24	Flashlight
+h-7204	217	Wilton Bench Vise
+h-5860	58	Partition
+s-21719	0.95	Amber Wide-Mouth Jar
+s-21656	2.50	Plastic Beaker
+s-19522	0.66	Plastic Vial
+s-18033	3.25	Glass Jug
+s-22922	1.05	Glass Spice Jar
+s-22896	0.34	Packer Bottle
+s-15648	15	Carboy
+s-22982	0.95	Mixing Container
